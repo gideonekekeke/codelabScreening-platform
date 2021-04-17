@@ -1,0 +1,31 @@
+@media screen and (max-width: 600px) {
+  .headie {
+    /* background-color: red; */
+    width: 200px;
+    margin-left: 20px;
+    font-size: 10px;
+  }
+}
+@media screen and (max-width: 600px) {
+  .normal {
+    /* background-color: red; */
+    height: 50px;
+
+    margin-left: 30px;
+    /* width: 70px; */
+    font-size: 10px;
+  }
+}
+@media screen and (max-width: 600px) {
+  .name_head {
+    /* background-color: red; */
+    margin-left: -30px;
+    font-size: 10px;
+  }
+}
+@media screen and (max-width: 600px) {
+  .bigie {
+    /* background-color: red;
+    width: 60%; */
+  }
+}

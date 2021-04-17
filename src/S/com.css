@@ -1,0 +1,7 @@
+@media screen and (max-width: 600px) {
+  .my_holder {
+    /* background-color: blue; */
+    display: flex;
+    flex-direction: column;
+  }
+}
